@@ -1,0 +1,5 @@
+forename,email,telephone,message,forenameerror,emailerror,telephoneerror,messageerror,expectedsubmission
+firstname,firstname@email.com,123456,message,,,,,true
+,,,,Forename is required,Email is required,,Message is required,false
+,testemail,testnum,,Forename is required,Please enter a valid email,Please enter a valid telephone number,Message is required,false
+firstname,abcdfgdf,test,,,Please enter a valid email,Please enter a valid telephone number,Message is required,false
